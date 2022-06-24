@@ -5,8 +5,8 @@ import { AiOutlineInstagram, AiOutlineLinkedin, AiOutlineMail } from 'react-icon
 
 const Home: NextPage = () => {
   return (
-    <Flex align='center' justify='center' bg='#0A0E14' w='100%' h='100vh'>
-      <Box position='relative' bg='white' m='40px' maxW='750px' h='fit-content' p='30px' borderRadius='lg'>
+    <Flex align='center' justify='center' bg='#0A0E14' w='100%' minH='100vh'>
+      <Box position='relative' bg='white' m='20px' maxW='750px' h='fit-content' p='30px' borderRadius='lg'>
         <Box
           top='0'
           left='50%'
