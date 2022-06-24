@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <Heading mt='0'>
           Hi, I&apos;m <Text as='span' color='#186EAE'>Leonardo Ribeiro</Text>
         </Heading>
-        <Text>I&apos;m a senior software engineer with 9+ years of experience crafting web applications. My focus is creating value through high quality software delivery using react, typescript and node.js as my main tools.</Text>
+        <Text>I&apos;m a senior software engineer with 9+ years of experience crafting web applications. My focus is creating value through high quality software delivery using <b>react, typescript and node.js</b> as my main tools.</Text>
         <Text>I already helped companies going from 0-1 with new products and helped improve existing ones, like social media platforms, academic conferences management tools, card collectors auction websites integrated with eBay.</Text>
         <Text>I also helped companies acquire funding for getting into polkadot parachain through a crowdloan website and they win, by having $53 million funded by the community through this website.</Text>
         <Text>I also love to create tools and experiments for myself, like a robot that automatically public posts on instagram in a daily basis that already has 25k+ followers.</Text>
